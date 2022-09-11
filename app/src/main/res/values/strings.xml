@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Technology Assessment</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="apikey">72e4aaf10622463595838f872bd7e262
+    </string>
+    <string name="title_activity_news_details">News_Details</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="about">Greeting of the Day!!\n\nFirstly Thankyou for giving me oppertunity to show my skills.\n\nSir/Maam the API which you give me in the Assignment was not working properly, So I used another API available on google for free.
+        \n\nIn this application I used Retrofit Libraries, Java as backend and other basic concepts of Android Development
+    </string>
+    <string name="image">Image</string>
+    <string name="title">Title</string>
+    <string name="content">Content -</string>
+    <string name="for_more_information_click_on_below_link">For more information click on below link</string>
+
+
+</resources>
